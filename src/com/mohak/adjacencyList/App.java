@@ -14,7 +14,7 @@ public class App {
 		a.addNeighbour(c);
 		b.addNeighbour(d);
 		
-		// print all neighbours
+		// print all neighbors
 		a.showNeighbour();
 		b.showNeighbour();
 		c.showNeighbour();
